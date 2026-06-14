@@ -1,42 +1,31 @@
 ## Hi there 👋
 
-# Виталий • Backend Developer
+### Виталий • Python backend developer
 
+🧠 Каждый день изучаю Python - самый популярный язык программирования с огромным и крутым комьюнити, с помощью которого можно реализовать даже самые нетривиальные проекты.
 
+### Немного о моем GitHub
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitalyVodoleikin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalyVodoleikin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitalyVodoleikin)](https://github.com/DenverCoder1/github-readme-streak-stats) <br>
 
+### 🛠 Технологии
 
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg?raw=true" alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg?raw=true" alt="FastAPI" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg?raw=true" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg?raw=true" alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg?raw=true" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg?raw=true" alt="Docker" width="40" height="40"/>
+</div>
 
+### Контакты
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vodoleikin_v)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vodoleikin@gmail.com)
 
 
 
@@ -96,5 +85,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой_ник&include_all_commits=true&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник)
+
+==========
 
 -->
