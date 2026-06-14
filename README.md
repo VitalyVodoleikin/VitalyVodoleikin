@@ -4,10 +4,12 @@
 
 🧠 Каждый день изучаю Python - самый популярный язык программирования с огромным и крутым комьюнити, с помощью которого можно реализовать даже самые нетривиальные проекты.
 
+<!--
 ### Немного о моем GitHub
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitalyVodoleikin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalyVodoleikin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitalyVodoleikin)](https://github.com/DenverCoder1/github-readme-streak-stats) <br>
+-->
 
 ### 🛠 Технологии
 
