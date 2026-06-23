@@ -29,7 +29,7 @@
 ### Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vodoleikin_v)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vodoleikin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vodoleikin@yandex.ru)
 
 
 
