@@ -2,7 +2,7 @@
 
 ### Виталий • Python backend developer
 
-🧠 Каждый день изучаю Python - самый популярный язык программирования с огромным и крутым комьюнити, с помощью которого можно реализовать даже самые нетривиальные проекты.
+🧠 Активно ищу проекты на Python!
 
 <!--
 ### Немного о моем GitHub
@@ -14,14 +14,16 @@
 ### 🛠 Технологии
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg?raw=true" alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg?raw=true" alt="FastAPI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg?raw=true" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg?raw=true" alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg?raw=true" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg?raw=true" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" alt="Python" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg?raw=true" alt="Django" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg?raw=true" alt="FastAPI" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg?raw=true" alt="Flask" width="80" height="80"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg?raw=true" alt="PostgreSQL" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg?raw=true" alt="Postman" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true" alt="Git" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg?raw=true" alt="GitHub" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg?raw=true" alt="Docker" width="80" height="80"/>
 </div>
 
 ### Контакты
